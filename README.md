@@ -4,9 +4,7 @@ This is the official documentation for the "Pilot Objects" Unity package.
 
 ## About the Package
 
-The "Pilot Objects" provides a feature in Unity projects where users can click on an object, press the "Inject" button, or use the default shortcut key (Ctrl + E) to move the object in the scene view. This functionality is similar to the "Pilot Actors" feature in Unreal Engine.
-
-Additionally, users can activate this feature by clicking on the camera. The camera highlights the parts of the scene view that it sees and allows users to use composition overlays and adjust various settings.
+This package allows the scene view camera to be used as a mechanism for placing game objects. Simply inject into any desired game object, adjust the scene view to the desired position, and then release the game object. The position and rotation of the scene view camera will be used to determine the position and rotation of the specified game object. By the way, you can use this feature on any camera. During navigation with the camera, you can see the portions processed by the camera as safe zones in the scene view.
 
 https://github.com/uzayayan/pilot-objects/assets/23665649/dd32ee2e-89d3-4612-b629-043fc2f61525
 
