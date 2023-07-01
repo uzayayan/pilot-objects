@@ -12,13 +12,13 @@ https://github.com/uzayayan/pilot-objects/assets/23665649/dd32ee2e-89d3-4612-b62
 
 ## Installation
 
-To add the "Package Name" to your Unity project, follow these steps:
+To add the package to your Unity project, follow these steps:
 
 1. Open your project in the Unity Editor.
 2. Go to "Window" > "Package Manager" in the menu bar.
 3. Click the "+" button in the top-right corner of the Package Manager window.
 4. Select "Add package from git URL" from the dropdown menu.
-5. Enter the URL of the package's GitHub.
+5. Enter the URL of the package's GitHub. (https://github.com/uzayayan/pilot-objects)
 6. Enjoy!
 
 ## Usage
