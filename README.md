@@ -8,6 +8,8 @@ The "Pilot Objects" provides a feature in Unity projects where users can click o
 
 Additionally, users can activate this feature by clicking on the camera. The camera highlights the parts of the scene view that it sees and allows users to use composition overlays and adjust various settings.
 
+https://github.com/uzayayan/pilot-objects/assets/23665649/dd32ee2e-89d3-4612-b629-043fc2f61525
+
 ## Installation
 
 To add the "Package Name" to your Unity project, follow these steps:
