@@ -1,0 +1,18 @@
+{
+  "name": "com.space.pilotobjects",
+  "displayName": "Pilot Objects",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Move objects easily on the scene view.",
+  "keywords": [
+    "pilot",
+    "objects",
+    "camera"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "Space",
+    "email": "ayanuzay@gmail.com",
+    "url": "https://www.github.com/uzayayan"
+  }
+}
